@@ -1,0 +1,18 @@
+{
+  "name": "react-native-wikitude",
+  "version": "1.4.4",
+  "description": "Wikitude react native package ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native"
+  ],
+  "author": "",
+  "license": "",
+  "peerDependencies": {
+    "react": "16.13.1",
+    "react-native": "^0.63.0"
+  }
+}
